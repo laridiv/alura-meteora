@@ -1,0 +1,30 @@
+.texto-menor {
+  font-size: 13px;
+}
+
+.divs-facilidades {
+  width: 325px;
+}
+
+.text-amarelo{
+  color:#DAFF01  ;
+}
+
+.bg-lilas{
+  background-color: #9353FF;
+  border: #9353FF;
+   
+}
+
+.bg-lilas:hover,.bg-lilas:active {
+  background-color: #3c0d8d;
+}
+
+
+.botao-lilas {
+  background-color: #9353FF;
+}
+
+.verde-limao {
+  color: #DAFF01;
+}
